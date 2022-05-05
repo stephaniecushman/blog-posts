@@ -10,6 +10,6 @@ I suppose if you can't find a rubber duck or don't want to actually go buy one, 
 
 If you really don't want to run your code by a duck, then you can think through your code in your head, but I don't think you'll have quite as much fun.
 
-If the rubber duck has failed you (hey he's a duck, go easy on him), the next thing you can do if you're still stuck is go to Stack Overflow. There you will find answers to frequently asked questions and you can view the answers that have the highest number of votes from the community. There is a green check mark next to answers to tell you that the person who asked the question found those answers helpful, which is very handy.
+If the rubber duck has failed you (hey he's a duck, go easy on him), the next thing you can do if you're still stuck is go to [Stack Overflow](https://stackoverflow.com/questions). There you will find answers to frequently asked questions and you can view the answers that have the highest number of votes from the community. There is a green check mark next to answers to tell you that the person who asked the question found those answers helpful, which is very handy.
 
 I hope this has been helpful to you. I found it useful to know these methods after I learned about them in my web development class.
